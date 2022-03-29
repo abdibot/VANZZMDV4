@@ -805,25 +805,22 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
                 anu = `
                 *Info Script*     
 
-📚 *Base : Dika Ardnt* 
+📚 *Base : VANZZ OFC* 
+MINTA SC MULU
 
-https://github.com/DikaArdnt/Hisoka-Morou
-
-
-🌱 Recode By : Sanzy YT
-
-https://youtube.com/c/SanzyYT`
                 let button = [{
                                 urlButton: {
                                     displayText: 'Youtube Creator',
-                                    url: 'https://youtube.com/c/SanzyYT'
+                                    url: 'https://youtube.com/c/vanzzofc'
                                 }
                             }]
                 hisoka.send5ButImg(m.chat, anu, hisoka.user.name, global.thumb, button)
             }
             break
-             case 'tes': {
-                m.reply('On Kak')
+             case 'tes':
+             case 'p': 
+             case 'assalamualaikum' {
+                m.reply('WALAIKUMSALAM On Kak Ada yang Boleh Sya Bantu Kalau Minta sewa di own wa.me//6285824629954')
             }
             break
             case 'chat': {
@@ -3352,9 +3349,9 @@ case 'sewa': case 'sewabot': {
 ┃ 
 ┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 ┃   ⬣ SEWA + PREM ⬣
-┃⬡ 1 MINGGU : 8K
-┃⬡ 1 BULAN : 18K
-┃⬡ PERMANEN : 25K
+┃⬡ 1 MINGGU : 1k
+┃⬡ 1 BULAN : 3k
+┃⬡ PERMANEN : 5k
 ┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 ┃       〔 KELEBIHAN BOT 〕
 ┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
