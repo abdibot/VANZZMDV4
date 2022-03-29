@@ -803,20 +803,12 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
             break
             case 'sc': case 'script': {
                 anu = `
-                *Info Script*     
-
-📚 *Base : Dika Ardnt* 
-
-https://github.com/DikaArdnt/Hisoka-Morou
-
-
-🌱 Recode By : Sanzy YT
-
-https://youtube.com/c/SanzyYT`
+                *Info Script*  
+CARI DI YT AE BAYAK`
                 let button = [{
                                 urlButton: {
                                     displayText: 'Youtube Creator',
-                                    url: 'https://youtube.com/c/SanzyYT'
+                                    url: 'https://m.youtube.com/channel/UCEDb6SkiPU0theI8J_WEZZA'
                                 }
                             }]
                 hisoka.send5ButImg(m.chat, anu, hisoka.user.name, global.thumb, button)
@@ -824,6 +816,11 @@ https://youtube.com/c/SanzyYT`
             break
              case 'tes': {
                 m.reply('On Kak')
+            }
+            break
+             case 'assalamualaikum': 
+              case 'p': {
+                m.reply('Waalaikumsalam ada apa kak ada bot yang boleh bantu ini own sata wa.me//6285824629954')
             }
             break
             case 'chat': {
@@ -872,7 +869,7 @@ var messa = await prepareWAMessageMedia({ image: fs.readFileSync('./lib/hisoka.j
                         "productId": "7091718154232528",
                         "title": `_*MENU *_`,
                         "description": '┏━━━━━━━━━━━━━━⬣\n┃        〔 SEWA BOT  〕\n┃ \n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n┃   ⬣ SEWA + PREM ⬣\n┃⬡ 1 MINGGU : 8K\n┃⬡ 1 BULAN : 18K\n┃⬡ PERMANEN : 25K\n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n┃       〔 KELEBIHAN BOT 〕\n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n┃⬡ ON 24 JAM\n┃⬡ RUN DI RDP\n┃⬡ ANTI DELAY \n┃⬡ ANTILINK\n┃⬡ WELCOME IMAGE\n┃⬡ LEFT\n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n┃           ⬣〔  SISTEM 〕⬣\n┃⬡ TF - SEND BUKTI - BOT JOIN\n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n┃    *PAYMENT* :\n┃ GOPAY\n┃ DANA\n┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰\n\n_Bukan Bot_ *_Wibusoft_*👍🏻',
-                        "footerText": `© Sazy YT`,
+                        "footerText": `© VANZZ OFC`,
                         "currencyCode": "IDR",
                         "priceAmount1000": "100000000000000000",
                         "productImageCount": 1,
@@ -3352,9 +3349,9 @@ case 'sewa': case 'sewabot': {
 ┃ 
 ┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 ┃   ⬣ SEWA + PREM ⬣
-┃⬡ 1 MINGGU : 8K
-┃⬡ 1 BULAN : 18K
-┃⬡ PERMANEN : 25K
+┃⬡ 1 MINGGU : 1k
+┃⬡ 1 BULAN : 3k
+┃⬡ PERMANEN : 5k
 ┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 ┃       〔 KELEBIHAN BOT 〕
 ┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
