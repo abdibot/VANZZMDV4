@@ -805,22 +805,25 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
                 anu = `
                 *Info Script*     
 
-📚 *Base : VANZZ OFC* 
-MINTA SC MULU
+📚 *Base : Dika Ardnt* 
 
+https://github.com/DikaArdnt/Hisoka-Morou
+
+
+🌱 Recode By : Sanzy YT
+
+https://youtube.com/c/SanzyYT`
                 let button = [{
                                 urlButton: {
                                     displayText: 'Youtube Creator',
-                                    url: 'https://youtube.com/c/vanzzofc'
+                                    url: 'https://youtube.com/c/SanzyYT'
                                 }
                             }]
                 hisoka.send5ButImg(m.chat, anu, hisoka.user.name, global.thumb, button)
             }
             break
-             case 'tes':
-             case 'p': 
-             case 'assalamualaikum' {
-                m.reply('WALAIKUMSALAM On Kak Ada yang Boleh Sya Bantu Kalau Minta sewa di own wa.me//6285824629954')
+             case 'tes': {
+                m.reply('On Kak')
             }
             break
             case 'chat': {
