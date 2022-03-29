@@ -804,15 +804,10 @@ let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObje
             case 'sc': case 'script': {
                 anu = `
                 *Info Script*     
-
-📚 *Base : Dika Ardnt* 
-
-https://github.com/DikaArdnt/Hisoka-Morou
-
-
-🌱 Recode By : Sanzy YT
-
-https://youtube.com/c/SanzyYT`
+SC BY : VANZZ OFC
+NAMA ASLI : ABDI
+BOT VERISI : MD 3
+https://youtube.com/c/VANZZ OFC`
                 let button = [{
                                 urlButton: {
                                     displayText: 'Youtube Creator',
@@ -820,10 +815,6 @@ https://youtube.com/c/SanzyYT`
                                 }
                             }]
                 hisoka.send5ButImg(m.chat, anu, hisoka.user.name, global.thumb, button)
-            }
-            break
-             case 'tes': {
-                m.reply('On Kak')
             }
             break
             case 'chat': {
@@ -3352,9 +3343,10 @@ case 'sewa': case 'sewabot': {
 ┃ 
 ┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 ┃   ⬣ SEWA + PREM ⬣
-┃⬡ 1 MINGGU : 1k
-┃⬡ 1 BULAN : 3k
-┃⬡ PERMANEN : 5k
+┃⬡ 1 MINGGU : 2k
+┃⬡ 1 BULAN : 4k
+┃⬡ PREMIUM : 7K
+┃⬡ PERMANEN : 10K
 ┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 ┃       〔 KELEBIHAN BOT 〕
 ┃▰▰▰▰▰▰▰▰▰▰▰▰▰▰
